@@ -11,7 +11,7 @@ namespace MinishiftTest4.Controllers
 	{
 		private static string[] Summaries = new[]
 		{
-			"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+			"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Boiling", "Scorching"
 		};
 
 		[HttpGet("[action]")]
