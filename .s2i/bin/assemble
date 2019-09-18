@@ -1,0 +1,4 @@
+#upgrade node version
+
+#Run the default build script.
+${STI_SCRIPTS_PATH}/assemble

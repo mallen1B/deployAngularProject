@@ -21,8 +21,10 @@ x64/
 x86/
 build/
 bld/
-bin/
-Bin/
+/MinishiftTest4/bin/
+/MinishiftTest4/Bin/
+/MinishiftTest4/**/bin/
+/MinishiftTest4/**/Bin/
 obj/
 Obj/
 
