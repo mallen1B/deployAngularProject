@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #upgrade node version
 sudo npm install npm@latest -g
 sudo npm install -g n
